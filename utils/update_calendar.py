@@ -11,16 +11,21 @@ from zoneinfo import ZoneInfo  # Python 3.9+
 
 ITALY_TZ = ZoneInfo("Europe/Rome")  # CET/CEST automatic
 readme_path = Path(__file__).resolve().parents[1] / "README.md"
+DEFAULT_START = "2025-01-01"
+DEFAULT_END = "2025-12-31"
 
 # 🔗 Your ICS link
 ICS_URL = "https://calendar.google.com/calendar/ical/1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com/public/basic.ics"
 
-# Read start/end dates from command line
-if len(sys.argv) < 3:
+# Use the configured dates by default, with optional command-line overrides.
+if len(sys.argv) == 1:
+    start_str, end_str = DEFAULT_START, DEFAULT_END
+elif len(sys.argv) == 3:
+    start_str, end_str = sys.argv[1], sys.argv[2]
+else:
     print("Usage: update_calendar.py START_DATE END_DATE (YYYY-MM-DD)")
     sys.exit(1)
 
-start_str, end_str = sys.argv[1], sys.argv[2]
 start = datetime.strptime(start_str, "%Y-%m-%d").replace(tzinfo=tz.UTC)
 end = datetime.strptime(end_str, "%Y-%m-%d").replace(tzinfo=tz.UTC)
 
