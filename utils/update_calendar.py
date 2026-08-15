@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo  # Python 3.9+
 # from pytz import timezone  # alternative if using older Python
 
 ITALY_TZ = ZoneInfo("Europe/Rome")  # CET/CEST automatic
-readme_path = Path(__file__).resolve().parents[2] / "README.md"
+readme_path = Path(__file__).resolve().parents[1] / "README.md"
 
 # 🔗 Your ICS link
 ICS_URL = "https://calendar.google.com/calendar/ical/1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com/public/basic.ics"

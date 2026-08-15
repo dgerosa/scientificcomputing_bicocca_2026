@@ -28,7 +28,7 @@ jobs:
 
       - name: Update README with calendar
         run: |
-          python .github/scripts/update_calendar.py "$DEFAULT_START" "$DEFAULT_END"
+          python utils/update_calendar.py "$DEFAULT_START" "$DEFAULT_END"
 
       - name: Commit changes
         run: |
