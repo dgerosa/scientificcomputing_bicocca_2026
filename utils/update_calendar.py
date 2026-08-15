@@ -11,8 +11,8 @@ from zoneinfo import ZoneInfo  # Python 3.9+
 
 ITALY_TZ = ZoneInfo("Europe/Rome")  # CET/CEST automatic
 readme_path = Path(__file__).resolve().parents[1] / "README.md"
-DEFAULT_START = "2025-01-01"
-DEFAULT_END = "2025-12-31"
+DEFAULT_START = "2026-01-01"
+DEFAULT_END = "2026-12-31"
 
 # 🔗 Your ICS link
 ICS_URL = "https://calendar.google.com/calendar/ical/1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com/public/basic.ics"

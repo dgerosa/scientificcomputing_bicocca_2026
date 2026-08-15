@@ -1,5 +1,5 @@
-lastyear=2024
-thisyear=2025
+lastyear=2025
+thisyear=2026
 
 scriptdir="$(cd "$(dirname "$0")" && pwd)"
 reporoot="$(dirname "$scriptdir")"
