@@ -64,14 +64,16 @@ For students at Milano-Bicocca, recordings are available at [elearning.unimib.it
 ### Schedule
 
 <!-- CALENDAR:START -->
-1. **2025, Nov 17, 10:30am - 12:30pm**. Room U1-12.
-2. **2025, Nov 18, 10:30am - 12:30pm**. Room U3-06.
-3. **2025, Nov 19, 10:30am - 12:30pm**. Room U4-05.
-4. **2025, Nov 20, 10:30am - 12:30pm**. Room U6-12.
-5. **2025, Nov 24, 10:30am - 12:30pm**. Room U2-02.
-6. **2025, Nov 25, 10:30am - 12:30pm**. Room U6-44.
-7. **2025, Nov 26, 10:30am - 12:30pm**. Room U6-37.
-8. **2025, Nov 27, 10:30am - 12:30pm**. Room U9-Lab911 .
+1. **2026, Nov 23, 10:30am - 12:30pm**
+2. **2026, Nov 24, 10:30am - 12:30pm**
+3. **2026, Nov 25, 10:30am - 12:30pm**
+4. **2026, Nov 26, 10:30am - 12:30pm**
+5. **2026, Nov 27, 10:30am - 12:30pm**
+6. **2026, Nov 30, 10:30am - 12:30pm**
+7. **2026, Dec 01, 10:30am - 12:30pm**
+8. **2026, Dec 02, 10:30am - 12:30pm**
+9. **2026, Dec 03, 10:30am - 12:30pm**
+10. **2026, Dec 04, 10:30am - 12:30pm**
 <!-- CALENDAR:END -->
 
 [Here is a Google calendar](https://calendar.google.com/calendar/embed?src=1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com&ctz=Europe%2FRome) with these dates, which you can import into your own calendar.
