@@ -64,16 +64,16 @@ For students at Milano-Bicocca, recordings are available at [elearning.unimib.it
 ### Schedule
 
 <!-- CALENDAR:START -->
-1. **2026, Nov 23, 10:30am - 12:30pm**
-2. **2026, Nov 24, 10:30am - 12:30pm**
-3. **2026, Nov 25, 10:30am - 12:30pm**
-4. **2026, Nov 26, 10:30am - 12:30pm**
-5. **2026, Nov 27, 10:30am - 12:30pm**
-6. **2026, Nov 30, 10:30am - 12:30pm**
-7. **2026, Dec 01, 10:30am - 12:30pm**
-8. **2026, Dec 02, 10:30am - 12:30pm**
-9. **2026, Dec 03, 10:30am - 12:30pm**
-10. **2026, Dec 04, 10:30am - 12:30pm**
+1. **2026, Nov 23, 10:30am - 12:30pm**. U1-12.
+2. **2026, Nov 24, 10:30am - 12:30pm**. U1-Lab111.
+3. **2026, Nov 25, 10:30am - 12:30pm**. U1-Lab111.
+4. **2026, Nov 26, 10:30am - 12:30pm**. U6-32.
+5. **2026, Nov 27, 10:30am - 12:30pm**. U1-12.
+6. **2026, Nov 30, 10:30am - 12:30pm**. U2-03.
+7. **2026, Dec 01, 10:30am - 12:30pm**. U6-37.
+8. **2026, Dec 02, 10:30am - 12:30pm**. U3-06.
+9. **2026, Dec 03, 10:30am - 12:30pm**. U9-15.
+10. **2026, Dec 04, 10:30am - 12:30pm**. U3-Lab311.
 <!-- CALENDAR:END -->
 
 [Here is a Google calendar](https://calendar.google.com/calendar/embed?src=1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com&ctz=Europe%2FRome) with these dates, which you can import into your own calendar.
