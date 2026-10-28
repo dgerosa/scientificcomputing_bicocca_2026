@@ -63,6 +63,8 @@ For students at Milano-Bicocca, recordings are available at [elearning.unimib.it
 
 ### Schedule
 
+Here is the class schedule. There are 10 slots here, but we'll only need 8 of them. I anticipate I might need to skip one class in the first week because of some student graduations. 
+
 <!-- CALENDAR:START -->
 1. **2026, Nov 23, 10:30am - 12:30pm**. U1-12.
 2. **2026, Nov 24, 10:30am - 12:30pm**. U1-Lab111.
