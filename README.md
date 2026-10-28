@@ -57,7 +57,7 @@ Here are some classes similar to this one which you might find useful:
 
 ### Recordings
 
-For students at Milano-Bicocca, recordings are available at [elearning.unimib.it/course/view.php?id=64719](https://elearning.unimib.it/course/view.php?id=64719)
+For students at Milano-Bicocca, recordings are available at [elearning.unimib.it/course/view.php?id=71205](https://elearning.unimib.it/course/view.php?id=71205)
 
 ## Logistics:
 
@@ -90,11 +90,11 @@ Here is the class schedule. There are 10 slots here, but we'll only need 8 of th
 
 For students enrolled in the Physics and Astronomy PhD at Milano-Bicocca, this class awards **2 CFU** (16 hours).  Exams will be light touch and without grades (i.e. just approved / not approved). 
 
-Each notebook has some exercises at the end. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. For clarity, I'm referring to the exercises *at the end* of the notebooks, not to those marked and *quick exercises* in between (the former count for the exams, the latter are simple things for you to follow along in class(. You'll see the exam exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. If in doubt, feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
+Each notebook has some exercises at the end. Note that the exercises provided are far more than what you'll need to do! Overall, it's ok if you work on **2 exercises for each lecture** (see the notebooks). You can choose what you prefer based on your interests and what you think will be more useful for your PhD research. For clarity, I'm referring to the exercises *at the end* of the notebooks, not to those marked and *quick exercises* in between (the former count for the exams, the latter are simple things for you to follow along in class). You'll see the exam exercises are very different: some of them are long, some are short, some have defined tasks, and some are more open-ended. If in doubt, feel free to shoot me an email with *"I'd like to prepare these ones; is that ok?"*.
 
 That should be a total of **2 x 8 = 16** exercises. Hopefully you will have finished many of them during the lectures themselves. To submit your exercises, please fork this repository and add your codes to the `working` directory of your fork. Please send me an email with your github username to let me know you are done (do not send me code by email! Use git!).
 
-I will mark them in batches (about once a month) and communicate the outcome by email. You will then need to enroll in an exam call on the student portal, so I can register your credits.
+I will mark them in batches (about once a month) and communicate the outcome by email. You will then need to enroll in an exam call on the student portal (I don't decide those dates!), so I can register your credits.
 
 In general, I'm always happy to chat coding and science with you. My office is room U2-2007. 
 
