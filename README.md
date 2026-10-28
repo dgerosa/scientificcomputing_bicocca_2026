@@ -43,6 +43,8 @@ There are infinitely many textbooks on scientific computing. Here are three that
 3. Perhaps a bit outdated, but the really nice thing about this textbook is that has a bit of everything you might need for science, not just python. Things like command line operations, data visualization, regular expressions, version control, debugging, latex, etc. This book is a perfect companion when starting your PhD.
     - *["Effective Computation in Physics"](https://www.oreilly.com/library/view/effective-computation-in/9781491901564/), A. Scopatz, K. D. Huff, O'Reilly Media, 2015.*
 
+These are all "old-fashion" coding resources, nothign here includes vibe coding. I believe we first need to understand what we are doing, and then do it faster, not the other way round.
+
 ### Classes
 
 Here are some classes similar to this one which you might find useful:
