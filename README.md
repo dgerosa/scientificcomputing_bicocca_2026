@@ -78,7 +78,7 @@ Here is the class schedule. There are 10 slots here, but we'll only need 8 of th
 10. **2026, Dec 04, 10:30am - 12:30pm**. U3-Lab311.
 <!-- CALENDAR:END -->
 
-[Here is a Google calendar](https://calendar.google.com/calendar/embed?src=1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com&ctz=Europe%2FRome) with these dates, which you can import into your own calendar. We will only need 8 lectures (I booked rooms for 10 just in case we need to cancel some of them). 
+[Here is a Google calendar](https://calendar.google.com/calendar/embed?src=1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com&ctz=Europe%2FRome) with these dates, which you can import into your own calendar.
 
 ### Prerequisites
 
