@@ -104,7 +104,7 @@ In general, I'm always happy to chat coding and science with you. My office is r
 ## Past editions
 
 - Current: [dgerosa.github.io/scientificcomputing](https://dgerosa.github.io/scientificcomputing)
-- 2025: [github.com/dgerosa/scientificcomputing_bicocca_2024](https://github.com/dgerosa/scientificcomputing_bicocca_2025)
+- 2025: [github.com/dgerosa/scientificcomputing_bicocca_2025](https://github.com/dgerosa/scientificcomputing_bicocca_2025)
 - 2024: [github.com/dgerosa/scientificcomputing_bicocca_2024](https://github.com/dgerosa/scientificcomputing_bicocca_2024)
 - 2023: [github.com/dgerosa/scientificcomputing_bicocca_2023](https://github.com/dgerosa/scientificcomputing_bicocca_2023)
 
