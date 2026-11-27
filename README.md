@@ -88,7 +88,6 @@ Here is the class schedule. There are 9 slots here, but we'll only need 8 of the
 6. **2026, Dec 01, 10:30am - 12:30pm**. U6-37.
 7. **2026, Dec 02, 10:30am - 12:30pm**. U3-06.
 8. **2026, Dec 03, 10:30am - 12:30pm**. U9-15.
-9. **2026, Dec 04, 10:30am - 12:30pm**. U3-Lab311.
 <!-- CALENDAR:END -->
 
 [Here is a Google calendar](https://calendar.google.com/calendar/embed?src=1c512861d9ca4686edd8ffdf6bece495b11a4a764ed045b1f809c9ef0f1903f5%40group.calendar.google.com&ctz=Europe%2FRome) with these dates, which you can import into your own calendar.
